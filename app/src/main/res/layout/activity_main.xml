@@ -32,5 +32,4 @@
             android:visibility="visible"
         />
     </FrameLayout>
-
 </LinearLayout>
