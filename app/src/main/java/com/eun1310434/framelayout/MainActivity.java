@@ -9,7 +9,7 @@
   ○
 
 □ STUDY
-  ○ Constrain Layout
+  ○ Frame Layout
      - FrameLayout is designed to block out an area on the screen to display a single item.
        Generally, FrameLayout should be used to hold a single child view,
        because it can be difficult to organize child views in a way that's scalable to different screen sizes without the children overlapping each other.
